@@ -2,7 +2,7 @@
 
 ![Rich Presence](https://raw.githubusercontent.com/EmangGek/valorant-rich-presence/main/screenshot.png)
 
-## Instalation
+## Installation
 
 - Download the app [here](https://github.com/EmangGek/valorant-rich-presence/releases/)
 - Open the VALORANT
