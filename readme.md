@@ -1,5 +1,7 @@
 # VALORANT Discord Rich Presence
 
+### !! This project has been archived and will not be updated, You can still use this program but it's only work with APAC account !!
+
 ![Rich Presence](https://raw.githubusercontent.com/EmangGek/valorant-rich-presence/main/screenshot.png)
 
 ## Installation
